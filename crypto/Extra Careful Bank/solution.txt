@@ -1,0 +1,7 @@
+Make 10 identical transfers. 
+Check the encrypted transactions.
+Since, ECB is used 10 of them would be identical.
+Use the transaction format to get your encrypted account number.
+Use the special transaction to get encrypted amount of $500.
+Get other encrypted account numbers from the encrypted transactions.
+Forge encrypted transactions to get $500 from id 1, 2, and 3.

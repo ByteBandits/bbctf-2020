@@ -1,0 +1,3 @@
+cat enc.txt | grep md5hash
+
+to get the first key

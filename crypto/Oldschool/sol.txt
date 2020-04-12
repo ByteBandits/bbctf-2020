@@ -1,0 +1,10 @@
+Part 1:
+"1" contains maya numerals i.e. a vigesimal(base-20) positional numeral system giving A = 7 and B = 19.
+
+"2" is an affine cipher which uses the values mentioned above. Using these values we get the following text:
+The Key is "codeRed"
+
+"3" is a vigenere cipher which uses the said key. Using this key, the ciphertext decrypts to give the first part of the flag.
+
+Part 2:
+Decode using Base85/ASCII85 followed by base64 to get the second part of the flag.
