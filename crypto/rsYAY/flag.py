@@ -1,0 +1,1 @@
+flag = open('flag.txt').read()
